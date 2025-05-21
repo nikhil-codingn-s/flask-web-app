@@ -1,3 +1,6 @@
+Cython>=0.29
+setuptools>=42
+wheel
 asgiref==3.5.0
 attrs==21.2.0
 awscli==1.22.34
