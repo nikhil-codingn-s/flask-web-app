@@ -20,7 +20,6 @@ docker-compose==1.29.2
 dockerpty==0.4.1
 docopt==0.6.2
 docutils==0.17.1
-duplicity==0.8.21
 fasteners==0.14.1
 filelock==3.17.0
 Flask==2.0.1
