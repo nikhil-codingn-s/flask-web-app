@@ -73,7 +73,6 @@ pyOpenSSL==21.0.0
 pyparsing==2.4.7
 pyRFC3339==1.1
 pyrsistent==0.18.1
-python-apt==2.4.0+ubuntu4
 python-dateutil==2.9.0.post0
 python-debian==0.1.43+ubuntu1.1
 python-dotenv==0.19.2
